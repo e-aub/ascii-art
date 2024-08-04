@@ -42,4 +42,3 @@ Then, run the program:
 ```bash
 go run . <string>
 ```
-
